@@ -3,8 +3,7 @@
 
 결과
 ---------
-- 영상: https://www.youtube.com/watch?v=Db3b-uB-GDU
- 
+- 유튜브 영상: https://www.youtube.com/watch?v=Db3b-uB-GDU
 - gif
 
 <img src="/result/동작영상.gif" title="px(픽셀) 크기 설정" alt="앱 이미지"></img><br/>
